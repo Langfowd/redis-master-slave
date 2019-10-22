@@ -14,6 +14,6 @@ public class BloomDemo {
             System.out.println("存在该数据");
             return;
         }
-        System.out.println("数据不存在12306");
+        System.out.println("数据不存在");
     }
 }
